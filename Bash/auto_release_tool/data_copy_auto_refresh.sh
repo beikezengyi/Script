@@ -6,29 +6,29 @@
 #$3 optional: nohup要(任意を指定する場合はインスタンス内のスキーマを一斉にimpdp、省略する場合はスキーマ順番で行う)
 
 #統合テスト環境p_ahafcdb_ap"
-jstg1_afc="SHINYOU/D+D3elFr@10.16.22.1:1711/p_ahafcdb_ap"
+jstg1_afc="user/pass@xxx.xxx.xx.xx:1711/p_ahafcdb_ap"
 #統合テスト環境p_ahanadb_ap"
-jstg1_ana="CSSANA/WTZj6+8a@10.16.22.1:1712/p_ahanadb_ap"
+jstg1_ana="user/pass@xxx.xxx.xx.xx:1712/p_ahanadb_ap"
 #結合テスト１  p_itafcdb1_ap"
-it1_afc="SHINYOU/D+D3elFr@10.16.22.1:1713/p_itafcdb1_ap"
+it1_afc="user/pass@xxx.xxx.xx.xx:1713/p_itafcdb1_ap"
 #結合テスト１  p_itanadb1_ap"
-it1_ana="CSSANA/WTZj6+8a@10.16.22.1:1714/p_itanadb1_ap"
+it1_ana="user/pass@xxx.xxx.xx.xx:1714/p_itanadb1_ap"
 #結合テスト２  p_itafcdb2_ap"
-it2_afc="SHINYOU/D+D3elFr@10.16.22.1:1715/p_itafcdb2_ap"
+it2_afc="user/pass@xxx.xxx.xx.xx:1715/p_itafcdb2_ap"
 #結合テスト２  p_itanadb2_ap"
-it2_ana="CSSANA/WTZj6+8a@10.16.22.1:1716/p_itanadb2_ap"
+it2_ana="user/pass@xxx.xxx.xx.xx:1716/p_itanadb2_ap"
 #開発①環境    p_dvafcdb1_ap"
-ut1_afc="SHINYOU/D+D3elFr@10.16.22.1:1717/p_dvafcdb1_ap"
+ut1_afc="user/pass@xxx.xxx.xx.xx:1717/p_dvafcdb1_ap"
 #開発①環境    p_dvanadb1_ap"
-ut1_ana="CSSANA/WTZj6+8a@10.16.22.1:1718/p_dvanadb1_ap"
+ut1_ana="user/pass@xxx.xxx.xx.xx:1718/p_dvanadb1_ap"
 #受入環境      p_atafcdb_ap"
-it3_afc="SHINYOU/D+D3elFr@10.16.22.1:1729/p_itafcdb3_ap"
+it3_afc="user/pass@xxx.xxx.xx.xx:1729/p_itafcdb3_ap"
 #受入環境      p_atanadb_ap" 
-it3_ana="CSSANA/WTZj6+8a@10.16.22.1:1730/p_itanadb3_ap"
+it3_ana="user/pass@xxx.xxx.xx.xx:1730/p_itanadb3_ap"
 #統合テスト環境２
-jstg2_afc="SHINYOU/D+D3elFr@10.16.22.1:1726/p_ahafcdb2_ap"
+jstg2_afc="user/pass@xxx.xxx.xx.xx:1726/p_ahafcdb2_ap"
 #統合テスト環境２
-jstg2_ana="CSSANA/WTZj6+8a@10.16.22.1:1727/p_ahanadb2_ap"
+jstg2_ana="user/pass@xxx.xxx.xx.xx:1727/p_ahanadb2_ap"
 
 
 #データコピーのダンプ、ＰＡＲの保存ＤＩＲ
